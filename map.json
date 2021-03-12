@@ -990,8 +990,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":3,
          "firstgid":321,
-         "source":"flirty_raoul.tsx"
+         "image":"flirtyraoul_small.jpg",
+         "imageheight":96,
+         "imagewidth":96,
+         "margin":0,
+         "name":"flirty_raoul",
+         "spacing":0,
+         "tilecount":9,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
