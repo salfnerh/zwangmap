@@ -208,11 +208,6 @@
                  "name":"jitsiRoom",
                  "type":"string",
                  "value":"backstage"
-                }, 
-                {
-                 "name":"jitsiTrigger",
-                 "type":"string",
-                 "value":"onaction"
                 }],
          "type":"tilelayer",
          "visible":true,
