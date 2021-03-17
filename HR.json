@@ -8,7 +8,8 @@
         },
      "export":
         {
-         "format":"json"
+         "format":"json",
+         "target":"."
         }
     },
  "height":50,
@@ -45,7 +46,7 @@
          "name":"Kopie von outside",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -57,7 +58,7 @@
          "name":"bottom",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -69,7 +70,7 @@
          "name":"bottom2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -81,7 +82,7 @@
          "name":"Kachelebene 13",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -104,7 +105,7 @@
          "name":"walls2",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -116,7 +117,7 @@
          "name":"walls",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -128,7 +129,7 @@
          "name":"doorup",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -140,7 +141,7 @@
          "name":"outsideobj",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -154,7 +155,7 @@
          "offsety":0,
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -168,7 +169,7 @@
          "offsety":0,
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":50,
          "x":0,
          "y":0
@@ -1144,16 +1145,147 @@
          "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":1304,
-         "source":"rodin thinker bit.tsx"
+         "image":"rodin thinker bit.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"rodin thinker bit",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":16,
          "firstgid":1404,
-         "source":"Interiors_free_32x32.tsx"
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
+         "columns":10,
          "firstgid":2300,
-         "source":"Tileset_32x32_bruno.tsx"
+         "image":"Tileset_32x32_bruno.png",
+         "imageheight":320,
+         "imagewidth":320,
+         "margin":0,
+         "name":"Tileset_32x32_bruno",
+         "spacing":0,
+         "tilecount":100,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":2400,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":3296,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":4192,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":5088,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":5984,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":6880,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":7776,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
+        }, 
+        {
+         "columns":16,
+         "firstgid":8672,
+         "image":"Interiors_free_32x32.png",
+         "imageheight":1792,
+         "imagewidth":512,
+         "margin":0,
+         "name":"Interiors_free_32x32",
+         "spacing":0,
+         "tilecount":896,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
