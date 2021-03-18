@@ -5,15 +5,11 @@
         {
          "height":32,
          "width":32
-        },
-     "export":
+        },   
+        "export":
         {
          "format":"json",
-<<<<<<< HEAD
          "target":"."
-=======
-         "target":"HR_2.json"
->>>>>>> ffbe319063c166a5cf97a43ab03f2ed6547a3978
         }
     },
  "height":50,
