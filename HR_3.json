@@ -203,6 +203,12 @@
          "id":31,
          "name":"play_sound",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"30747_01.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
