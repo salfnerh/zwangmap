@@ -243,7 +243,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"maps\/cia.json"
+                 "value":"cia.json"
                 }],
          "type":"tilelayer",
          "visible":true,
