@@ -8,8 +8,7 @@
         },
      "export":
         {
-         "format":"json",
-         "target":"."
+         "format":"json"
         }
     },
  "height":100,
@@ -257,7 +256,7 @@
                  "value":"sounds\/30747_01.mp3"
                 }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
