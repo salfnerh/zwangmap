@@ -1,0 +1,14 @@
+{ "columns":23,
+ "image":"527-5276245_map-tile-v3-rpg-tileset_bearbeitet.png",
+ "imageheight":958,
+ "imagewidth":760,
+ "margin":1,
+ "name":"527-5276245_map-tile-v3-rpg-tileset_bearbeitet",
+ "spacing":1,
+ "tilecount":667,
+ "tiledversion":"1.4.3",
+ "tileheight":32,
+ "tilewidth":32,
+ "type":"tileset",
+ "version":1.4
+}
