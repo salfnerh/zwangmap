@@ -80,9 +80,9 @@
          "height":100,
          "id":35,
          "name":"Kachelebene 18",
-         "opacity":1,
+         "opacity":0.27,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
