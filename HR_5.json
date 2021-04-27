@@ -58,7 +58,7 @@
          "name":"hr4",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -70,7 +70,7 @@
          "name":"trippy9",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":100,
          "x":0,
          "y":0
@@ -187,7 +187,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.zwangmagazin.de\/ratten.html"
+                 "value":"https:\/\/www.zwangmagazin.de\/text\/ratten.html"
                 }, 
                 {
                  "name":"openWebsitePolicy",
