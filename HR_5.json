@@ -2587,6 +2587,19 @@
          "tilecount":24,
          "tileheight":32,
          "tilewidth":32
+        }, 
+        {
+         "columns":12,
+         "firstgid":64332,
+         "image":"tilesets\/pcscrdm.png",
+         "imageheight":256,
+         "imagewidth":384,
+         "margin":0,
+         "name":"pcscrdm",
+         "spacing":0,
+         "tilecount":96,
+         "tileheight":32,
+         "tilewidth":32
         }],
  "tilewidth":32,
  "type":"map",
