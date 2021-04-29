@@ -84,7 +84,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.mixcloud.com\/rattenralle\/punks-not-dead-you-are-volume-i\/"
+                 "value":"https:\/\/www.mixcloud.com\/widget\/iframe\/?feed=%2F%2Fwww.mixcloud.com%2Frattenralle%2Fpunks-not-dead-you-are-volume-i%2F&hide_cover=1&hide_tracklist=1"
                 }],
          "type":"tilelayer",
          "visible":true,
