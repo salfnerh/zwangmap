@@ -155,7 +155,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"sounds\/30747_01.mp3"
+                 "value":"sounds\/workit-mp3.m4a"
                 }],
          "type":"tilelayer",
          "visible":true,
