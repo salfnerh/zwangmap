@@ -54,7 +54,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"..\/HR_5.json"
+                 "value":"..\/HR_5.json#return-from-cia"
                 }],
          "type":"tilelayer",
          "visible":true,
