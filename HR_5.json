@@ -387,7 +387,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.zwangmagazin.de\/store.html"
+                 "value":"https:\/\/www.zwangmagazin.de\/text\/store.html"
                 }],
          "type":"tilelayer",
          "visible":true,
