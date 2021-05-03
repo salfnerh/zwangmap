@@ -345,6 +345,12 @@
          "id":31,
          "name":"play_sound",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/st01.sslstream.dlf.de\/dlf\/01\/64\/mp3\/stream.mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
