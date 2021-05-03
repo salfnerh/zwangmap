@@ -345,6 +345,12 @@
          "id":31,
          "name":"play_sound",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"sounds\/workit-mp3.m4a"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -536,6 +542,17 @@
          "id":52,
          "name":"video_leo",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/www.youtube.com\/embed\/JWhLW1hFNpw"
+                }, 
+                {
+                 "name":"openWebsitePolicy",
+                 "type":"string",
+                 "value":"fullscreen"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
