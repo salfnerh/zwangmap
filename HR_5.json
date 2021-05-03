@@ -349,7 +349,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/st01.sslstream.dlf.de\/dlf\/01\/64\/mp3\/stream.mp3"
+                 "value":""
                 }],
          "type":"tilelayer",
          "visible":true,
